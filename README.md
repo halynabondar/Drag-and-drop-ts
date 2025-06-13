@@ -10,7 +10,7 @@ This is my first project built using **TypeScript**, developed as part of a prac
 
 1. Clone the repository
 2. Run `tsc` to compile the TypeScript code into JavaScript
-3. Open `index.html` in your browser
+3. Open `` in your browser
 
 ## What I Learned
 
