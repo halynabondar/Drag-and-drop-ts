@@ -16,6 +16,7 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.4",
+    "typescript": "^5.8.3",
     "undici-types": "^7.12.0"
   }
 }
