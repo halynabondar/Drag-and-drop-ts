@@ -12,6 +12,10 @@ This is my first project built using **TypeScript**, developed as part of a prac
 ## How to Run
 
 1. Clone the repository
+```bash
+git clone https://github.com/halynabondar/Drag-and-drop-ts.git
+```
+
 2. Run `tsc` to compile the TypeScript code into JavaScript
 3. Open `` in your browser
 
