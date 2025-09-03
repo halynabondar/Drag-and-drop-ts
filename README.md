@@ -5,6 +5,9 @@ This is my first project built using **TypeScript**, developed as part of a prac
 ## Features
 
 ## Technologies Used
+- TypeScript
+- HTML5
+- CSS3
 
 ## How to Run
 
