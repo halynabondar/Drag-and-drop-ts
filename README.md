@@ -17,7 +17,14 @@ git clone https://github.com/halynabondar/Drag-and-drop-ts.git
 ```
 
 2. Run `tsc` to compile the TypeScript code into JavaScript
-3. Open `` in your browser
+```bash
+tsc
+```
+
+3. Run the project
+```bash
+npm start
+```
 
 ## What I Learned
 
