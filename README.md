@@ -4,6 +4,11 @@ This is my first project built using **TypeScript**, developed as part of a prac
 
 ## Features
 
+	•	Drag and drop items between lists
+	•	Strong typing with TypeScript
+	•	Lightweight implementation using vanilla JS/TS
+	•	Minimal UI with HTML5 and CSS3
+
 ## Technologies Used
 - TypeScript
 - HTML5
@@ -27,6 +32,11 @@ npm start
 ```
 
 ## What I Learned
+
+	•	Setting up and compiling TypeScript projects
+	•	Using interfaces, classes, and strong typing
+	•	Implementing drag-and-drop with vanilla TypeScript
+	•	Structuring code for clarity and scalability
 
 ## Screenshot
 
